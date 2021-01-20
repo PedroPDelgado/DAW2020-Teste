@@ -22,7 +22,7 @@
         Fiz ainda algumas alteracoes a erros que estavam no ficheiro. Faltas de aspas, vírgulas etc.. onde também usei
         expressoes regulares no sublime para corrigir.</p>
         <p>No exercicio 3 da parte 1, para carregar no MongoDB, usei o comando: <b>mongoimport -d Batismos -c batismos --jsonArray batismos.json</b>.
-        Usei entao a colecao batismos da bd Batismos para guardar os documentos. Para acesso à bd uso mongoose</p>
+        Usei entao a colecao batismos da bd Batismos para guardar os documentos. Para acesso à bd uso mongoose.</p>
         <p>Correr ex1: npm i; npm start. Porta 3000.</p>
         <p>No exercicio 1 da parte 2, são 21 processos: 900.10.001, 900.10.002, 900.10.500, 900.10.501, 900.10.502, 900.10.503, 900.10.504, 900.10.505,
         900.20.001, 900.20.002, 900.20.200, 900.20.201, 900.20.400, 900.20.401, 900.20.402, 900.20.600, 900.20.601, 900.20.602, 900.20.603, 900.20.604,
@@ -33,7 +33,9 @@
         <p>Correr ex2: npm i; npm start. Porta 3001.</p>
     </abstract>
     <deliverables>
-        <link url="https://github.com/PedroPDelgado/DAW2020/tree/main/T8/app">Aplicação com todas as componentes do projeto
+        <link url="ex1">ex1: Pasta com a resolucao do exercicio 1
+        </link>
+        <link url="ex2">ex2: Pasta com a resolucao do exercicio 2
         </link>
     </deliverables>
 </pr>
