@@ -33,9 +33,11 @@
         <p>Correr ex2: npm i; npm start. Porta 3001.</p>
     </abstract>
     <deliverables>
-        <link url="ex1">ex1: Pasta com a resolucao do exercicio 1
+        <link url="ex1">ex1: Pasta com a resolucao do exercicio 1.
         </link>
-        <link url="ex2">ex2: Pasta com a resolucao do exercicio 2
+        <link url="ex2">ex2: Pasta com a resolucao do exercicio 2.
+        </link>
+        <link url="ex1/batismos.json">ex1/batismos.json: Ficheiro json versão final com os batismos.
         </link>
     </deliverables>
 </pr>
