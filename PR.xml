@@ -39,5 +39,7 @@
         </link>
         <link url="ex1/batismos.json">ex1/batismos.json: Ficheiro json versão final com os batismos.
         </link>
+        <link url="ex1/conversor.js">ex1/conversor.js: Ficheiro de auxilio ao tratamento do ficheiro batismos.json.
+        </link>
     </deliverables>
 </pr>
